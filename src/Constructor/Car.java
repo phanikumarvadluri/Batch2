@@ -4,7 +4,6 @@ public class Car {
     public String speed() {
         return "90 miles";
     }
-    //constructor will called// defult constuctor
     Car() {
         System.out.println("constuctor call!!!");
     }
