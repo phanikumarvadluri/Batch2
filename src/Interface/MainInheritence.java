@@ -12,7 +12,7 @@ public class MainInheritence {
 
     private static void dynamicinteractivity() {
         DynamicHelper helper = new DynamicHelper(new MathProcessing[]{
-               new Adder(), new Divide(),new Substract()
+               new Adder(), new Divide()
         });
 
         System.out.println("Enter an operation divide two numbers");
